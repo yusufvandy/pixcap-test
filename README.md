@@ -17,9 +17,9 @@ The app maintains a hierarchical structure of employees, where each employee is 
 
 ## Usage
 
-To use the Employee Organization Management App, follow these steps:
+To use the Employee Organization App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/employee-org-app.git`
+1. Clone the repository: `git clone https://github.com/yusufvandy/pixcap-test.git`
 2. Run `main.html` directly to preferred browser.
 3. Open browser developer console.
 4. Instantiate `EmployeeOrgApp` with `CEO` that already defined on code.
